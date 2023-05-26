@@ -1,3 +1,9 @@
+---
+layout: default
+title: SSH Setup
+nav_order: 2
+---
+
 SSH Setup
 
 |                       |                                                |
